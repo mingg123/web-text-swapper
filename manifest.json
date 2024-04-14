@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "webtextswapper",
+  "version": "1.0",
+  "description": "convert all text tag",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
