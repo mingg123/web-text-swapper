@@ -2,7 +2,7 @@
 웹 화면 내 텍스트를 마스킹(TEST)로 바꾸어 주는 확장 프로그램
 
 
-1. git clone
+1. git clone https://github.com/mingg123/web-text-swapper.git
 2. chrome://extensions/ 접속 
 3. 확장 프로그램 로드 
 
